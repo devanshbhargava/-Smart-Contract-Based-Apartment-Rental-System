@@ -128,3 +128,10 @@ We envision a future where rental agreements are self-executing, maintenance is 
 ---
 
 *This project demonstrates the practical application of blockchain technology in solving real-world problems in the housing market, creating value for all stakeholders while promoting transparency, fairness, and technological innovation.*
+
+
+
+contract adress: 0xB1C4f45e443DD564f384962f750f17adcbDc90E6
+![image](https://github.com/user-attachments/assets/a929a97b-1b17-4e04-9dcd-593370e8c37c)
+
+
